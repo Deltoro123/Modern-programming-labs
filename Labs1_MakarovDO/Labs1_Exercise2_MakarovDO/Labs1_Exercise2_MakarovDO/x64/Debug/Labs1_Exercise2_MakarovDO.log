@@ -1,0 +1,50 @@
+﻿  Labs1_Exercise2_MakarovDO.cpp
+F:\Labs\Labs1_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO.cpp(6,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+F:\Labs\Labs1_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO.cpp(11,5): warning C4477: "printf": в строке форматирования "%u" требуется аргумент типа "unsigned int", но вариативный аргумент "1" имеет тип "int *"
+F:\Labs\Labs1_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO.cpp(11,5): warning C4313: printf: конфликт "%u" в строке формата с аргументом 1 типа "int *"
+F:\Labs\Labs1_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO.cpp(11,5): warning C4477: "printf": в строке форматирования "%u" требуется аргумент типа "unsigned int", но вариативный аргумент "3" имеет тип "int **"
+F:\Labs\Labs1_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO.cpp(11,5): warning C4313: printf: конфликт "%u" в строке формата с аргументом 3 типа "int **"
+F:\Labs\Labs1_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO.cpp(13,5): warning C4477: "printf": в строке форматирования "%u" требуется аргумент типа "unsigned int", но вариативный аргумент "1" имеет тип "int *"
+F:\Labs\Labs1_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO.cpp(13,5): warning C4313: printf: конфликт "%u" в строке формата с аргументом 1 типа "int *"
+F:\Labs\Labs1_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO.cpp(13,5): warning C4477: "printf": в строке форматирования "%u" требуется аргумент типа "unsigned int", но вариативный аргумент "3" имеет тип "int **"
+F:\Labs\Labs1_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO.cpp(13,5): warning C4313: printf: конфликт "%u" в строке формата с аргументом 3 типа "int **"
+F:\Labs\Labs1_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO.cpp(14,5): warning C4477: "printf": в строке форматирования "%u" требуется аргумент типа "unsigned int", но вариативный аргумент "1" имеет тип "int *"
+F:\Labs\Labs1_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO.cpp(14,5): warning C4313: printf: конфликт "%u" в строке формата с аргументом 1 типа "int *"
+F:\Labs\Labs1_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO.cpp(14,5): warning C4477: "printf": в строке форматирования "%u" требуется аргумент типа "unsigned int", но вариативный аргумент "3" имеет тип "int **"
+F:\Labs\Labs1_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO.cpp(14,5): warning C4313: printf: конфликт "%u" в строке формата с аргументом 3 типа "int **"
+F:\Labs\Labs1_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO.cpp(16,12): warning C4477: "printf": в строке форматирования "%u" требуется аргумент типа "unsigned int", но вариативный аргумент "1" имеет тип "__int64"
+      F:\Labs\Labs1_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO.cpp(16,12):
+      рекомендуется использовать "%llu" в строке форматирования
+      F:\Labs\Labs1_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO.cpp(16,12):
+      рекомендуется использовать "%Iu" в строке форматирования
+      F:\Labs\Labs1_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO.cpp(16,12):
+      рекомендуется использовать "%I64u" в строке форматирования
+  
+F:\Labs\Labs1_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO.cpp(19,9): warning C4005: PR: изменение макроопределения
+      F:\Labs\Labs1_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO.cpp(3,9):
+      см. предыдущее определение "PR"
+  
+F:\Labs\Labs1_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO.cpp(22,6): error C2371: main: переопределение; различные базовые типы
+      F:\Labs\Labs1_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO.cpp(6,6):
+       см. объявление "main"
+  
+F:\Labs\Labs1_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO.cpp(27,5): warning C4477: "printf": в строке форматирования "%u" требуется аргумент типа "unsigned int", но вариативный аргумент "1" имеет тип "double *"
+F:\Labs\Labs1_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO.cpp(27,5): warning C4313: printf: конфликт "%u" в строке формата с аргументом 1 типа "double *"
+F:\Labs\Labs1_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO.cpp(27,5): warning C4477: "printf": в строке форматирования "%u" требуется аргумент типа "unsigned int", но вариативный аргумент "3" имеет тип "double **"
+F:\Labs\Labs1_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO.cpp(27,5): warning C4313: printf: конфликт "%u" в строке формата с аргументом 3 типа "double **"
+F:\Labs\Labs1_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO.cpp(29,5): warning C4477: "printf": в строке форматирования "%u" требуется аргумент типа "unsigned int", но вариативный аргумент "1" имеет тип "double *"
+F:\Labs\Labs1_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO.cpp(29,5): warning C4313: printf: конфликт "%u" в строке формата с аргументом 1 типа "double *"
+F:\Labs\Labs1_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO.cpp(29,5): warning C4477: "printf": в строке форматирования "%u" требуется аргумент типа "unsigned int", но вариативный аргумент "3" имеет тип "double **"
+F:\Labs\Labs1_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO.cpp(29,5): warning C4313: printf: конфликт "%u" в строке формата с аргументом 3 типа "double **"
+F:\Labs\Labs1_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO.cpp(30,5): warning C4477: "printf": в строке форматирования "%u" требуется аргумент типа "unsigned int", но вариативный аргумент "1" имеет тип "double *"
+F:\Labs\Labs1_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO.cpp(30,5): warning C4313: printf: конфликт "%u" в строке формата с аргументом 1 типа "double *"
+F:\Labs\Labs1_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO.cpp(30,5): warning C4477: "printf": в строке форматирования "%u" требуется аргумент типа "unsigned int", но вариативный аргумент "3" имеет тип "double **"
+F:\Labs\Labs1_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO.cpp(30,5): warning C4313: printf: конфликт "%u" в строке формата с аргументом 3 типа "double **"
+F:\Labs\Labs1_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO.cpp(32,12): warning C4477: "printf": в строке форматирования "%u" требуется аргумент типа "unsigned int", но вариативный аргумент "1" имеет тип "__int64"
+      F:\Labs\Labs1_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO.cpp(32,12):
+      рекомендуется использовать "%llu" в строке форматирования
+      F:\Labs\Labs1_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO.cpp(32,12):
+      рекомендуется использовать "%Iu" в строке форматирования
+      F:\Labs\Labs1_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO\Labs1_Exercise2_MakarovDO.cpp(32,12):
+      рекомендуется использовать "%I64u" в строке форматирования
+  
