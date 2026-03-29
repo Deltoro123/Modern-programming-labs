@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Labs10_Exercise2_MakarovDO/Labs10_Exercise2_MakarovDO.vcxproj" />
+</Solution>
